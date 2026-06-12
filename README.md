@@ -19,22 +19,14 @@ GitHub Profile Finder is a modern web application that allows users to search an
 
 ## Screenshots
 
-### Home Page
-
-*Add screenshot here*
-
-
 ### User Profile
 
-*Add screenshot here*
+[*Add screenshot here*](https://github.com/BALAJI-M-TECHIE/github-profile-finder.git)
 
 ### Repository Section
 
-*Add screenshot here*
+<img width="832" height="842" alt="image" src="https://github.com/user-attachments/assets/2c55c66d-6d58-454c-8b28-ec70bd74ed5d" />
 
-### Dark Mode
-
-*Add screenshot here*
 
 ## Project Structure
 
@@ -81,9 +73,7 @@ https://api.github.com/users/{username}/repos
 * Pagination for Repositories
 * Favorite Profiles System
 
-## Author
 
-**Balaji M**
 
 GitHub: https://github.com/BALAJI-M-TECHIE
 
