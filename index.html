@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Finder</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>GitHub Profile Finder</h1>
+
+            <button id="themeToggle" class="theme-btn">
+                🌙
+            </button>
+        </header>
+
+        <div class="search-box">
+            <input
+                type="text"
+                id="searchInput"
+                placeholder="Enter GitHub Username..."
+            >
+
+            <button id="searchBtn">
+                Search
+            </button>
+        </div>
+
+        <div id="historyContainer" class="history-container">
+        </div>
+
+        <div id="loader" class="loader hidden">
+            <div class="spinner"></div>
+            <p>Loading Profile...</p>
+        </div>
+
+        <div id="errorMessage" class="error hidden">
+        </div>
+
+        <div id="profileContainer"></div>
+
+        <div id="repoContainer"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
