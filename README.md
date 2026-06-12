@@ -1,6 +1,7 @@
-.# GitHub Profile Finder
+# GitHub Profile Finder
 
-GitHub Profile Finder is a modern web application that allows users to search and explore GitHub profiles in real time using the GitHub REST API. The application displays detailed profile information, repository statistics, recent repositories, and search history through an intuitive and responsive user interface.
+GitHub Profile Finder is a modern web application that allows users to search and explore GitHub profiles in real time using the GitHub REST API. 
+The application displays detailed profile information, repository statistics, recent repositories, and search history through an intuitive and responsive user interface.
 
 ## Features
 
