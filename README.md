@@ -21,7 +21,8 @@ GitHub Profile Finder is a modern web application that allows users to search an
 
 ### User Profile
 
-[*Add screenshot here*](https://github.com/BALAJI-M-TECHIE/github-profile-finder.git)
+<img width="832" height="842" alt="image" src="https://github.com/user-attachments/assets/78637766-1bfb-4b3a-9c56-02389406a5c3" />
+
 
 ### Repository Section
 
